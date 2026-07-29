@@ -18,11 +18,11 @@ $external_docs = @{
     "figma-docs"         = @{ ref="842a2792282b88586a337381b2b3786e779973b4" }  #latest main commit
     "uno.resizetizer"    = @{ ref="e422ad9f26cf21ed02c339e717e0dd0189bb566e" }  #latest main commit
     "uno.uitest"         = @{ ref="94d027295b779e28064aebf99aeaee2b393ad558" }  #latest master commit
-    "uno.extensions"     = @{ ref="7f6bc3093f1a6aa25583ef17ba87582edc9952d8" }  #latest main commit
+    "uno.extensions"     = @{ ref="a96b52152fc557383dd397753f465bf7a516575c" }  #latest main commit
     "workshops"          = @{ ref="3515c29e03dea36cf2206d797d1bf9f8620370e3" }  #latest master commit
     "uno.samples"        = @{ ref="9789b2ae29cee12efea6c9a621a41c1eb20b80e3" }  #latest master commit
     "uno.chefs"          = @{ ref="4bbc0569dc7ac0ddefe8b0de4be31beb3706a90b" }  #latest main commit
-    "hd-docs"            = @{ ref="f33ffbf0b25173f98cad25cc365b09d412f55ab7"; dest="studio/Hot Design" } #latest main commit
+    "hd-docs"            = @{ ref="07acd66a214c0fc74411026ab3f6001208aacb17"; dest="studio/Hot Design" } #latest main commit
 }
 
 $uno_git_url = "https://github.com/unoplatform/"
